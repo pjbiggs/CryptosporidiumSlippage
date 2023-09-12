@@ -10,9 +10,9 @@ A repository for `R` and `bash` scripts to accompany our manuscript on our obser
 **Authors**: Matt A Knox, Patrick J Biggs, Juan-Carlos Garcia-R and David T S Hayman.
 
 This repository contains the following files and scripts:
-* `R script part 1`
-* `bash work`
-* `R script part 2`
+* `R script part 1 -- name to follow`
+* `bash work -- name to follow`
+* `R script part 2 -- name to follow`
 
 ## Requirements to run the scripts 
 

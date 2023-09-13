@@ -10,15 +10,18 @@ A repository for `R` and `bash` scripts to accompany our manuscript on our obser
 **Authors**: Matt A Knox, Patrick J Biggs, Juan-Carlos Garcia-R and David T S Hayman.
 
 This repository contains the following files and scripts:
-* `R script part 1 -- name to follow`
+* `01dataGeneration.R`
 * `bash work -- name to follow`
 * `R script part 2 -- name to follow`
 
 ## Requirements to run the scripts 
 
+### environment
+The scripts were run on a Ubuntu 20.04.6 LTS laptop with 32Gb RAM and an Intel® Core™ i7-7500U CPU @ 2.70GHz processor.
+
 ### R environment
-The code was run in `R` version XXXX, with the following required packages:
-* 
+The code was run in `R` version 4.3.1, with the following required packages:
+* dada2 (v. 1.26.0)
 * 
 * 
 
@@ -28,7 +31,7 @@ In addition, the `bash` script between the two `R` scripts was run on in an Ubun
 
 ## Script description
 
-### R script 1
+### 01dataGeneration.R
 
 
 

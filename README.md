@@ -11,8 +11,8 @@ A repository for `R` and `bash` scripts to accompany our manuscript on our obser
 
 This repository contains the following files and scripts:
 * `01dataGeneration.R`
-* `bash work -- name to follow`
-* `R script part 2 -- name to follow`
+* `02bashCode.sh`
+* `03dataPlotting.R`
 
 ## Requirements to run the scripts 
 
@@ -29,17 +29,18 @@ The code was run in `R` version 4.3.1, with the following required packages:
 In addition, the `bash` script between the two `R` scripts was run on in an Ubuntu 20.04 environment along with cd-hit for clustering and generating tabular output:
 * [cdhit on the web](https://sites.google.com/view/cd-hit) and [cdhit in GitHub](https://github.com/weizhongli/cdhit)
 
+
 ## Script description
 
 ### 01dataGeneration.R
 
 
 
-### bash script
+### 02bashCode.sh
 
 
 
-### R script 2
+### 03dataPlotting.R
 
 
 
